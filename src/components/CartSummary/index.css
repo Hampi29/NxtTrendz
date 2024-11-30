@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.checkout {
+  background-color: #0b69ff;
+  color: #ffffff;
+  padding: 20px;
+  border: none;
+}
+.cartsummary {
+  align-self: flex-end;
+  justify-content: flex-end;
+}
